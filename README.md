@@ -1,7 +1,7 @@
 # Setup
-1) Create a new notebook in Google Colab (https://colab.research.google.com/)
-2) Create HuggingFace account
-3) Get HuggingFace token (Settings -> Access Tokens)
+1) Create a new notebook in [Google Colab](https://colab.research.google.com/)
+2) Create [HuggingFace account](https://huggingface.co/)
+3) Get [HuggingFace token](https://huggingface.co/settings/tokens)
 
 
 ## Prompt Ideas
