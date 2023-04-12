@@ -22,3 +22,4 @@
 - https://stable-diffusion-art.com/how-stable-diffusion-work/
 - https://towardsdatascience.com/stable-diffusion-best-open-source-version-of-dall-e-2-ebcdf1cb64bc
 - https://www.vegaitglobal.com/media-center/knowledge-base/what-is-stable-diffusion-and-how-does-it-work
+- https://jalammar.github.io/illustrated-stable-diffusion/
